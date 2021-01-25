@@ -35,35 +35,35 @@ id,code,name,user_type_id/id,chart_template_id:id,reconcile
 11017001,11017001,برامج ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
 11018,11018,تحسينات في الماجور ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
 11018001,11018001,تحسينات في الماجور ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12001,12001,البنوك ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12001001,12001001,       بنك الانماء ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12001002,12001002,بنك 2,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12001003,12001003,بنك 3,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12002,12002,الصندوق ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12002001,12002001,صندوق 1,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12003,12003,سلف العاملين ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12003001,12003001,سلفة موظف  1,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12003002,12003002,سلفة موظف 2,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12003003,12003003,سلفة  موظف 3,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12004,12004,عهد العاملين ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12004001,12004001,عهدة موظف 1,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12004002,12004002,عهدة موظف 2,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12005,12005,تامينات لدى الغير ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12005001,12005001,تامين شركة 1,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12006,12006,اطراف ذات العلاقة ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12006001,12006001,مجمع العقيق الطبي العام ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12006002,12006002,صيدلية العقيق للأدوية ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12007,12007,ضريبة القيمة المضافة على المشتريات ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12007001,12007001,ضريبة القيمة المضافة على المشتريات ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12008,12008,الضمانات البنكية ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12008001,12008001,                  ضمان رقم 1,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12009,12009,العملاء ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12009001,12009001,عملاء دورات شهرية ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12009002,12009002,عملاء دورات ربع سنوية (3اشهر ),account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12009003,12009003,عملاء دورات نصف سنوية (6 اشهر ),account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12009004,12009004,عملاء دورات سنوية ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12009005,12009005,عملاء دورات واشتراكات متنوعة ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
-12009006,12009006,عملاء العروض ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
+12001,12001,البنوك ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12001001,12001001,       بنك الانماء ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12001002,12001002,بنك 2,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12001003,12001003,بنك 3,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12002,12002,الصندوق ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12002001,12002001,صندوق 1,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12003,12003,سلف العاملين ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12003001,12003001,سلفة موظف  1,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12003002,12003002,سلفة موظف 2,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12003003,12003003,سلفة  موظف 3,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12004,12004,عهد العاملين ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12004001,12004001,عهدة موظف 1,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12004002,12004002,عهدة موظف 2,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12005,12005,تامينات لدى الغير ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12005001,12005001,تامين شركة 1,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12006,12006,اطراف ذات العلاقة ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12006001,12006001,مجمع العقيق الطبي العام ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12006002,12006002,صيدلية العقيق للأدوية ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12007,12007,ضريبة القيمة المضافة على المشتريات ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12007001,12007001,ضريبة القيمة المضافة على المشتريات ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12008,12008,الضمانات البنكية ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12008001,12008001,                  ضمان رقم 1,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12009,12009,العملاء ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12009001,12009001,عملاء دورات شهرية ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12009002,12009002,عملاء دورات ربع سنوية (3اشهر ),account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12009003,12009003,عملاء دورات نصف سنوية (6 اشهر ),account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12009004,12009004,عملاء دورات سنوية ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12009005,12009005,عملاء دورات واشتراكات متنوعة ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
+12009006,12009006,عملاء العروض ,account.data_account_type_current_assets,account_arabic_coa_general,TRUE
 21001,21001,راس المال ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
 21001001,21001001,راس المال ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
 21002,21002,جارى المالك ,account.data_account_type_fixed_assets,account_arabic_coa_general,TRUE
