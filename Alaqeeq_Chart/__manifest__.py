@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 {
-    'name': 'Saudi Arabia Chart of Alaqeeq Holding',
+    'name': 'Saudi Arabia Chart of Alaqeeq Holding1',
     'version': '1.1',
     'author': "Azoz",
     'category': 'Localization',
